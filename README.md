@@ -28,7 +28,7 @@ Le bloc de config est : { "mcpServers": { "claudeverstradingview": { "command": 
 Ensuite copie rules.example.json vers rules.json et ouvre-le.
 Enfin redémarre et vérifie avec tv_health_check.
 ```
-
+1
 Ou suivez les étapes manuelles ci-dessous.
 
 ---
